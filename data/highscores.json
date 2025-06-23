@@ -1,0 +1,14 @@
+{
+  "easy": {
+    "tries": 7,
+    "duration": 15.7
+  },
+  "medium": {
+    "tries": 4,
+    "duration": 13.38
+  },
+  "hard": {
+    "tries": 4,
+    "duration": 7.42
+  }
+}

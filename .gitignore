@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs (optional, depending on team setup)
+.vscode/
+.idea/
+
+# Runtime files
+*.log
+
+# Backup files
+*~
+
+# Ignore high score data if personal
+# data/highscores.json
